@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculadora de anos luz</string>
+    <string name="km">ex: 1000</string>
+    <string name="calculate">Calcular</string>
+</resources>
